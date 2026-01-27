@@ -7,12 +7,11 @@ Enjoy the ride!!
 
 ## Lab tasks
 
-Read the lab02.py file carefully. It is a beautifully written Python code (not by me). Then complete the task.
+The lab02.py file will run all the tests in the `tests` folder. Complete the tasks in the other files in the folder. 
 
-1. Complete the best_hand function in the [lab02.py](./lab02.py) file.
-2. Try your solution by running `lab02.py`
-3. Commit and push your changes to GitHub.
-4. Submit the link to the commit on Canvas.
+1. Try your solutions by running `lab02.py`
+2. Commit and push your changes to GitHub.
+3. Submit the link to the commit on Canvas.
 
 Consider reading the code in the `tests` folder to learn about test driven development (TDD).
 
