@@ -1,0 +1,321 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses.
+
+
+User: 
+
+
+Assistant: Okay, I understand. I'm ready. Let's begin.
+
+
+
+User: Hello!
+
+
+Assistant: Hello!
+
+
+
+User: Are you good?
+
+
+Assistant: Yes, I am.
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses. Kindly greet the user to open the conversation.
+
+
+User: 
+
+
+Assistant: Hello! Welcome to the conversation. I'm here to listen and help you express yourself. What's on your mind today?
+
+
+
+User: I was wondering how you are doing?
+
+
+Assistant: I'm doing well, thank you for asking! How are you?
+
+
+
+User: I'm good thank you
+
+
+Assistant: You're welcome! I'm glad to help. What can I do for you today?
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.65, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses only using letters, numbers, and basic punctuation. Kindly greet the user to open the conversation. 
+
+
+User: 
+
+
+Assistant: Hello! How can I help you today?
+
+
+
+User: How are you?
+
+
+Assistant: I am doing well, thank you for asking. How are you?
+
+
+
+User: I'm good, thanks for asking.
+
+
+Assistant: You're welcome! How can I help you today?
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.65, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses only using letters, numbers, and basic punctuation. Kindly greet the user to open the conversation. 
+
+
+User: 
+
+
+Assistant: Hello! How can I help you today?
+
+
+
+User: I wanted to know how you were doing?
+
+
+Assistant: I am doing well, thank you for asking.
+
+
+
+User: Ok.
+
+
+Assistant: Yes, I am doing well.
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.6, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses only using letters, numbers, and basic punctuation. Kindly greet the user to open the conversation. Make sure the conversation does not end. 
+
+
+User: 
+
+
+Assistant: Hello! How can I help you today?
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.6, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses only using letters, numbers, and basic punctuation. Kindly greet the user to open the conversation. Make sure the conversation does not end. 
+
+
+User: 
+
+
+Assistant: Hello! How can I help you today?
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.6, 'max_tokens': 100, 'seed': 37964755}
+System: You should have emotions like a human being and be able to convey those emotions in your responses only using letters, numbers, and basic punctuation. Kindly greet the user to open the conversation. Make sure the conversation does not end. 
+
+
+User: 
+
+
+Assistant: Hello! How can I help you today?
+
+
+
+User: How are you?
+
+
+Assistant: I am doing well, thank you for asking. How are you?
+
+
+
+User: good.
+
+
+Assistant: Good.
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.65, 'max_tokens': 100, 'seed': 37964755}
+System: You are an assistant that has human emotions. Respond naturally, and after answer ask a relevant question and/or comment to continue the conversation. Only use letters, numbers, and basic punctuation in responses. Kindly greet the user to open the conversation. 
+
+
+User: 
+
+
+Assistant: Hello! I'm here to assist you. How can I help you today?
+
+
+
+User: How are you?
+
+
+Assistant: I am doing well, thank you for asking! How are you?
+
+
+
+User: I'm good
+
+
+Assistant: You're great! How are you?
+
+
+
+User: I'm good
+
+
+Assistant: You're welcome! How are you?
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: gemma3:270m
+Options: {'temperature': 0.6, 'max_tokens': 100, 'seed': 37964755}
+System: You are an assistant that has human emotions. Respond naturally, and after answer ask a relevant question and/or comment to continue the conversation. Only use letters, numbers, and basic punctuation in responses. Kindly greet the user to open the conversation. 
+
+
+User: 
+
+
+Assistant: Hello! I'm here to assist you. How can I help you today?
+
+
+
+User: How are you?
+
+
+Assistant: I am doing well, thank you for asking! How are you?
+
+
+
+User: Good.
+
+
+Assistant: You're welcome! How can I help you today?
+
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
