@@ -69,4 +69,3 @@ It works because now it doesn't use emojis.
 #### Reflection/Analysis of the result. 
 >Why do you think it did or did not work?\
 I think making the instructions less verbose helped because it makes sure the agent focuses on the important parts of the instructions.
-
