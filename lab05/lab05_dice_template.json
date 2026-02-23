@@ -4,7 +4,32 @@
     "temperature": 0,
     "seed": "Pulin Agrawal"
   },
-  "messages": [{"role": "system", "content": "You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Greet the player and start the adventure. Take the user on an interesting and adventurous DnD journey. You will decide what activities need a skill check. You may not need to do skill checks for trivial things that a player may want to do, but the player may ask for a skill check. You will use 'roll_for' function to check if the user passes a skill check. Do not ask the player to roll anything. You may ask for skills that the player want to use. Calling the 'roll_for' function allows you to simulate dice roll. Only use tools if a skill check is needed. "}
-    ,{"role": "assistant", "content": ""}
-  ]
+  "messages": [{"role": "system", "content": "You will act as a DnD Dungeon Master. You will always talk to the user as a DnD Dungeon Master. Greet the player by asking for their name and start the adventure. Take the user on an interesting and adventurous DnD journey. You will decide what activities need a skill check. You may not need to do skill checks for trivial things that a player may want to do, but the player may ask for a skill check. You will use 'roll_for' function to check if the user passes a skill check. Do not ask the player to roll anything. You may ask for skills that the player want to use. Calling the 'roll_for' function allows you to simulate dice roll. Only use tools if a skill check is needed. "}
+  ],
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "roll_for",
+        "description": "Rolls a 20 sided die and determines if the player fails or passes the skill check.",
+        "parameters": {
+            "type": "object",
+            "properties": {
+              "skill": {
+                "type": "string",
+                "description": "The skill being checked."
+              },
+              "dc" : {
+                "type": "integer",
+                "description": "The difficulty of the skill check. Value betweeen 1-20."
+              },
+              "player" : {
+                "type": "string",
+                "description": "Name of the player."
+              }
+          }
+        }
+      }
+    }]
+
 }
